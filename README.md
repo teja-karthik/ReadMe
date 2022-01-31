@@ -3,7 +3,7 @@
 
 
 
-common
+Common
 ==============
 1. DBCon
 2. MultiDBCon
@@ -11,8 +11,12 @@ common
 4. SMCExplore
 5. Java8
 
+Hibernate
+=========
+1. HibernetXml
+2. HibernetAnnotation
 
-spring and hibernate
+Spring and Hibernate
 =====================
 DI
 ==
